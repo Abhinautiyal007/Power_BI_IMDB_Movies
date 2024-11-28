@@ -53,7 +53,10 @@
 - Number of Nominations: Total nominations received.
 - Awards: Total awards won.
 
+## Dashboard
 - Dashboard Interaction <a href="https://github.com/Abhinautiyal007/Power_BI_IMDB_Movies/blob/main/Screenshot_Movies_Report_Dashboard_1.png">View Dashboard</a>
+![Screenshot_Movies_Report_Dashboard_1](https://github.com/user-attachments/assets/5499ead1-6faf-4f34-b656-ac3ff779900c)
+
 
 ## This Power BI dashboard-2 provides an insightful summary of movie data from 2014 to 2018, focusing on key metrics and visualizations.
 
@@ -71,7 +74,7 @@
 ## Detailed Data Table
 - Lists movies with details like Movie ID, Title, Release Year, Duration, Genres, Nominations, and Awards.
 
-## Dashboard
+## Dashboard-2
 ![Screenshot_Movies_Report_Details_Dashboard_2](https://github.com/user-attachments/assets/6196665d-d8ed-4fe1-966d-4b591794391e)
 
 
