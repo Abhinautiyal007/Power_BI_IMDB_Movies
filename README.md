@@ -1,6 +1,9 @@
 # Power_BI_IMDB_Movies
 ## This Power BI dashboard provides an insightful analysis of movie data, capturing various key metrics and visualizations. The report encompasses the following elements:
 
+## Dataset used
+- <a href="https://github.com/Abhinautiyal007/Power_BI_IMDB_Movies/blob/main/IMDB_Movies.xlsx">Dataset</a>
+
 Key Metrics
 Total Movies: 65,000
 
