@@ -4,7 +4,7 @@
 ## Dataset used
 - <a href="https://github.com/Abhinautiyal007/Power_BI_IMDB_Movies/blob/main/IMDB_Movies.xlsx">Dataset</a>
 
-Key Metrics
+- Key Metrics
 Total Movies: 65,000
 
 Total Awards: 438
